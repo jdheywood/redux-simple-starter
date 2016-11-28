@@ -2,7 +2,7 @@
 
 Based on tutorial from Stephen Grider
 
-###Getting Started###
+###Getting Started
 
 Checkout this repo, install dependencies, then start the gulp process with the following:
 
