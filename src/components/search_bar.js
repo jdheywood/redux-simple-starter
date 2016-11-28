@@ -8,6 +8,7 @@ class SearchBar extends Component {
   }
 
   render() {
+    // class based component can ref this.props anywhere
     return (
       <div>
         <input
